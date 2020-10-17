@@ -1,9 +1,4 @@
----
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
----
+
 
 # 🤞 Analysis of chats on WhatsApp. 🙄
 
