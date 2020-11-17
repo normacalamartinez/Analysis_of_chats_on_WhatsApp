@@ -3,7 +3,7 @@
 ## ¡Hola!
 
 
-Es este repo 🍚 creé un análisis de adquisición de texto en archivos **planos contenidos en un .zip 📚 y Web Scraping leyendo contenido de google drive (excel)** de link 🔗 que apuntan a las biografías con enlaces a wikipedia. Todo desde **Python** 🐍
+Es este repo 🍚 vamos a procesar información desde la aplicación de Whatsapp escogiendo un chat de ejemplo para luego graficar y analizar la información allí almacenada. Todo desde **Python** 🐍
 
 
 ![Resultados](/WH.png)
